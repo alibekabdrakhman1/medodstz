@@ -5,7 +5,7 @@ HttpServer:
 Database:
   User: 'root'
   Password: 'qwerty'
-  Host: 'localhost'
+  Host: 'mongo'
   Port: '27017'
   Database: 'medods'
   Collection: 'tz'

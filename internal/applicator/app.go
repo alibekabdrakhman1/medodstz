@@ -2,11 +2,11 @@ package applicator
 
 import (
 	"context"
-	"github.com/alibekabdrakhman1/medodsTZ/internal/config"
-	"github.com/alibekabdrakhman1/medodsTZ/internal/controller"
-	"github.com/alibekabdrakhman1/medodsTZ/internal/controller/http"
-	"github.com/alibekabdrakhman1/medodsTZ/internal/service"
-	"github.com/alibekabdrakhman1/medodsTZ/internal/storage"
+	"github.com/alibekabdrakhman1/medodstz/internal/config"
+	"github.com/alibekabdrakhman1/medodstz/internal/controller"
+	"github.com/alibekabdrakhman1/medodstz/internal/controller/http"
+	"github.com/alibekabdrakhman1/medodstz/internal/service"
+	"github.com/alibekabdrakhman1/medodstz/internal/storage"
 	"go.uber.org/zap"
 	"log"
 	"os"

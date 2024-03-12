@@ -1,7 +1,7 @@
 package http
 
 import (
-	"github.com/alibekabdrakhman1/medodsTZ/internal/service"
+	"github.com/alibekabdrakhman1/medodstz/internal/service"
 	"github.com/labstack/echo/v4"
 	"go.uber.org/zap"
 	"net/http"

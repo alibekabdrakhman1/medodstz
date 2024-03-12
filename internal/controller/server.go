@@ -3,8 +3,8 @@ package controller
 import (
 	"errors"
 	"fmt"
-	"github.com/alibekabdrakhman1/medodsTZ/internal/config"
-	"github.com/alibekabdrakhman1/medodsTZ/internal/controller/http"
+	"github.com/alibekabdrakhman1/medodstz/internal/config"
+	"github.com/alibekabdrakhman1/medodstz/internal/controller/http"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 	"golang.org/x/net/context"

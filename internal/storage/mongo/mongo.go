@@ -3,7 +3,7 @@ package mongo
 import (
 	"context"
 	"fmt"
-	"github.com/alibekabdrakhman1/medodsTZ/internal/config"
+	"github.com/alibekabdrakhman1/medodstz/internal/config"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )

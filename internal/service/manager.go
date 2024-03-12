@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	"github.com/alibekabdrakhman1/medodsTZ/internal/model"
+	"github.com/alibekabdrakhman1/medodstz/internal/model"
 )
 
 type ITokenService interface {

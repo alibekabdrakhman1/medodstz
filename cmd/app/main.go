@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/alibekabdrakhman1/medodsTZ/internal/applicator"
-	"github.com/alibekabdrakhman1/medodsTZ/internal/config"
+	"github.com/alibekabdrakhman1/medodstz/internal/applicator"
+	"github.com/alibekabdrakhman1/medodstz/internal/config"
 	"github.com/spf13/viper"
 	"go.uber.org/zap"
 )

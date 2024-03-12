@@ -1,7 +1,7 @@
 package service
 
 import (
-	"github.com/alibekabdrakhman1/medodsTZ/internal/storage"
+	"github.com/alibekabdrakhman1/medodstz/internal/storage"
 	"go.uber.org/zap"
 )
 

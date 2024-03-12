@@ -12,6 +12,7 @@ services:
     environment:
       - MONGO_INITDB_ROOT_USERNAME=root
       - MONGO_INITDB_ROOT_PASSWORD=qwerty
+      - MONGO_INITDB_ROOT_DATABASE=medods
   mongo-express:
     image: mongo-express
     restart: always

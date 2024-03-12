@@ -2,8 +2,8 @@ package storage
 
 import (
 	"context"
-	"github.com/alibekabdrakhman1/medodsTZ/internal/config"
-	"github.com/alibekabdrakhman1/medodsTZ/internal/storage/mongo"
+	"github.com/alibekabdrakhman1/medodstz/internal/config"
+	"github.com/alibekabdrakhman1/medodstz/internal/storage/mongo"
 	"go.uber.org/zap"
 )
 

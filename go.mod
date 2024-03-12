@@ -1,4 +1,4 @@
-module github.com/alibekabdrakhman1/medodsTZ
+module github.com/alibekabdrakhman1/medodstz
 
 go 1.21
 
